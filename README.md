@@ -72,7 +72,6 @@ npm run dev
 Open the link (usually http://localhost:5173) in your browser.
 
 ## Deployment (Production)
-
 To make your app public (so your friend can visit a URL like `my-app.vercel.app`):
 
 ### Option 1: Vercel (Recommended)
